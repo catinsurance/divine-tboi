@@ -1,0 +1,1 @@
+Divine.Enum.DEFAULT_KRAMPUS_CHANCE = 0.1
